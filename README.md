@@ -1,39 +1,24 @@
-<h1 data-importer="text" align="left">Hey 👋 i'm Ananthu Mohan</h1>
+### Hey 👋 I'm Ananthu Mohan
 
-###
+🎓 MCA Final Year Student  
+🌐 Networking • Cloud • System Administration  
+🚀 Aspiring Cloud Engineer
 
-<p data-importer="text" align="left"></p>
+---
 
-###
+### 📚 Currently Learning
+`CCNA` `Linux Administration` `AWS Cloud` `Python for Automation`
 
-<h5 data-importer="text" align="left">🎓 MCA Final Year Student  <br>🌐 Passionate about Networking, Cloud Computing, and System Administration  <br>📚 Currently learning CCNA, Linux, AWS, and Python  <br>🔧 Building hands-on projects in Cisco Packet Tracer and Cloud Technologies  <br>🚀 Interested in Cloud Engineering and Network Infrastructure  <br>📖 Always exploring new technologies and improving my technical skills</h5>
+### 🛠️ Tech Stack
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-###
+### 📊 GitHub Stats
+![Ananthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananthum002&show_icons=true&theme=radical)
 
-<p data-importer="text" align="left">🌱 I'm currently learning<br><br>- CCNA<br>- Linux Administration<br>- AWS Cloud Fundamentals<br>- Python for Network Automation</p>
-
-###
-
-<h4 data-importer="text" align="left">I code with</h4>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
-</div>
-
-###
+### 📫 Let's Connect
+📧 ananthumohan112002@gmail.com
